@@ -1,6 +1,6 @@
 
 ####  前序准备
-你需要了解 [vue3.0](https://github.com/vuejs/vue-next)的新特性和Api方法后才开始熟悉本项目，大部分数据采用[Mock.js](https://github.com/nuysoft/Mock) 进行模拟，[axios](https://github.com/axios/axios)请求数据，最大还原了请求后台接口数据，由于[element-ui](https://github.com/ElemeFE/element) 还未支持vue3.0（不过好像在憋大招）,所以这里自己手写了几个项目中遇到的UI组件，正在持续更新中...
+你需要了解 [vue3.0](https://github.com/vuejs/vue-next)的新特性和Api方法后才开始熟悉本项目，大部分数据采用[Mock.js](https://github.com/nuysoft/Mock) 进行模拟，[axios](https://github.com/axios/axios)请求数据，最大还原了请求后台接口数据，由于[element-ui](https://github.com/ElemeFE/element) ,所以这里自己手写了几个项目中遇到的UI组件，正在持续更新中...
 
 
 
