@@ -14,16 +14,12 @@
 
 
 #### 系统架构
-> 架构定义了项目的前端/中台/后端的组成
 
->  架构内容
 ![](https://raw.githubusercontent.com/cinoliu/Big-data-visualization/master/img/3.jpg)
 
 
 #### 系统流程
-> 系统流程定义了项目中的数据处理流程
 
->  系统流程
 ![](https://raw.githubusercontent.com/cinoliu/Big-data-visualization/master/img/4.jpg)
 
 
