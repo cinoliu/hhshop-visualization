@@ -32,7 +32,6 @@
 ## 部分图片 ##
 
 ![](https://raw.githubusercontent.com/cinoliu/Big-data-visualization/master/img/1.jpg)
-![](https://raw.githubusercontent.com/cinoliu/Big-data-visualization/master/img/2.jpg)
 
 
 
