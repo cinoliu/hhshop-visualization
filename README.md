@@ -6,11 +6,11 @@
 - ①.利用用户的行为构建场景应用服务的全业务流程可视化的解决方案
 - ②.流程化、节点式的强大、灵活的可视化服务平台
 - ③.场景数据、精准数据的增值服务、预测市场等服务
--
 
 # 技术栈 #
 - [hhshop-visualization系统](https://github.com/cinoliu/hhshop-visualization):   vue3 +echarts
 
+- [hhshop-eventTracking](https://github.com/cinoliu/hhshop-eventTracking)
 
 
 #### 系统架构
