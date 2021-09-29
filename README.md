@@ -10,7 +10,7 @@
 # 技术栈 #
 - [hhshop-visualization系统](https://github.com/cinoliu/hhshop-visualization):   vue3 +echarts
 
-- [hhshop-eventTracking](https://github.com/cinoliu/hhshop-eventTracking)
+- [hhshop-eventTracking](https://github.com/cinoliu/hhshop-eventTracking) ：封装的埋点框架
 
 
 #### 系统架构
