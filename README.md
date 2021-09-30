@@ -12,6 +12,7 @@
 
 - [hhshop-eventTracking](https://github.com/cinoliu/hhshop-eventTracking) ：封装的埋点框架
 
+- [hhshop](https://github.com/cinoliu/hhshop) ：数据来源
 
 #### 系统架构
 
